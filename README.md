@@ -83,6 +83,7 @@
 - 🌦️ Weather Dashboard using Flask & OpenWeather API
 - 🏠 HomeAssist Smart Marketplace
 - ⚡ Linux Automation Scripts
+-  Movie Recommendr System
 
 ---
 
@@ -102,7 +103,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpal9370&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpal9370&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -123,16 +124,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashpal9370&theme=tokyo-night" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yashpal9370/yashpal9370/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
