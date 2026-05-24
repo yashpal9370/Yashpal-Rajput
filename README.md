@@ -96,10 +96,12 @@
 </div>
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashpal9370/yashpal9370/output/github-contribution-grid-snake.svg" />
 </p>
 ---
+
 # 📈 Most Used Languages
 
 <div align="center">
